@@ -1,0 +1,22 @@
+= Version 1.2.1 =
+* 12 Nov 2013 by Ipstenu
+* Better failure
+
+= Version 1.2 =
+* 25 May 2013 by Ipstenu
+* Better handling of content
+* Poppin' tags (strip_tags() really)
+* De-texturizing email titles
+* Serialization
+* Translate all the things!
+
+= Version 1.1 =
+* 10 May 2013 by Ipstenu
+* Data sanitization
+* Adding in ability to customize 'Read More' prefix.
+* Better handling of plugin defaults
+
+= Verision 1.0 =
+* 9 May 2013 by Ipstenu
+* All New! All Fun!
+
